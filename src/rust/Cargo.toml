@@ -9,3 +9,7 @@ name = 'diffsolR'
 
 [dependencies]
 extendr-api = '*'
+nalgebra = "0.33.2"
+diffsol = { version = "0.5.0", features = ["diffsl"]}
+take_mut = "0.2.2"
+faer = "0.19.4"
